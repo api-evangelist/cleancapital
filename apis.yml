@@ -16,6 +16,17 @@ description: 'CleanCapital is a New York based clean energy investment firm, fou
   its customer portal at app.cleancapital.com now redirects to the third-party Dock
   Energy platform.'
 url: https://raw.githubusercontent.com/api-evangelist/cleancapital/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cleancapital.com/wp-content/uploads/2022/09/CC_Logo_Hero-1.svg
 x-type: company
 x-source: harvest:secondary-market
