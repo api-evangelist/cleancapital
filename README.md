@@ -64,5 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CleanCapital is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/cleancapital_stock/
+CleanCapital is a New York based clean energy investment firm, founded in 2015, that develops, constructs, acquires, owns and operates distributed-generation solar and energy storage projects across the United States. It concentrates on the commercial and municipal middle market between residential rooftop and utility-scale generation, selling power to businesses, schools, nonprofits, municipalities and community solar subscribers, and it buys operating and late-stage development projects from developers through a dedicated project-acquisition practice. The firm reports more than $1.5 billion of capital deployed, 450+ MW under management, 235 MW developed and constructed, 200+ energy customers and over 1,000 GWh of emissions-free generation, backed by institutional partners including Manulife Investment Management / John Hancock, BlackRock and CarVal Investors. CleanCapital is an asset owner and investment manager rather than a software vendor: it publishes no developer portal, no API documentation and no machine-readable API contract, and its customer portal at app.cleancapital.com now redirects to the third-party Dock Energy platform.
+
+**Areas:** Company · Energy · Clean Energy · Renewable Energy · Solar · Energy Storage · Investment · Asset Management · Infrastructure · Sustainability
+
+## CleanCapital on APIs.io
+
+Everything profiled for CleanCapital is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cleancapital/](https://apis.io/providers/cleancapital/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cleancapital Domain Security](https://apis.io/security/cleancapital/cleancapital-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cleancapital.com/)
+- [Blog](https://cleancapital.com/blog/)
+- [Privacy policy](https://cleancapital.com/email-privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 6.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.2** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cleancapital/](https://apis.io/providers/cleancapital/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CleanCapital: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cleancapital/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
